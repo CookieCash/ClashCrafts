@@ -1,0 +1,120 @@
+﻿{
+    "language": "en",
+    "name": "Archers",
+    "rarity": "common",
+    "level": "9",
+    "type": "troop",
+    "elixir": "3",
+    "description": "A pair of lightly armored ranged attackers. They'll help you take down ground and air units, but you're on your own with hair coloring advice.",
+    "image": "http://www.clashroyalecardmaker.com/undefined",
+    "properties": [
+        {
+            "name": "Hitpoints",
+            "value": "265",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hp.png",
+                "text": "Hitpoints"
+            }
+        },
+        {
+            "name": "Damage per second",
+            "value": "71",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/dps.png",
+                "text": "DPS"
+            }
+        },
+        {
+            "name": "Damage",
+            "value": "86",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/damage.png",
+                "text": "Damage"
+            }
+        },
+        {
+            "name": "Hit Speed",
+            "value": "1.2sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hit_speed.png",
+                "text": "Hit Speed"
+            }
+        },
+        {
+            "name": "Targets",
+            "value": "Air &amp; Ground",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/target.png",
+                "text": "Targets"
+            }
+        },
+        {
+            "name": "Speed",
+            "value": "Medium",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/speed.png",
+                "text": "Speed"
+            }
+        },
+        {
+            "name": "Range",
+            "value": "5",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/range.png",
+                "text": "Range"
+            }
+        },
+        {
+            "name": "Deploy Time",
+            "value": "1sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/deploy_time.png",
+                "text": "Deploy Time"
+            }
+        },
+        {
+            "name": "Count",
+            "value": "x 2",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/count.png",
+                "text": "Count"
+            }
+        }
+    ]
+}
