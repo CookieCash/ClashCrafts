@@ -1,0 +1,108 @@
+﻿{
+    "language": "en",
+    "name": "Princess",
+    "rarity": "legendary",
+    "level": "1",
+    "type": "troop",
+    "elixir": "3",
+    "description": "This stunning Princess shoots flaming arrows from long range. If you're feeling warm feelings towards her, it's probably because you're on fire.",
+    "image": "",
+    "properties": [
+        {
+            "name": "Hitpoints",
+            "value": "216",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hp.png",
+                "text": "Hitpoints"
+            }
+        },
+        {
+            "name": "Damage Per Second",
+            "value": "46",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/dps.png",
+                "text": "DPS"
+            }
+        },
+        {
+            "name": "Area Damage",
+            "value": "140",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/area_damage.png",
+                "text": "Area Damage"
+            }
+        },
+        {
+            "name": "Hit Speed",
+            "value": "3sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hit_speed.png",
+                "text": "Hit Speed"
+            }
+        },
+        {
+            "name": "Targets",
+            "value": "Air &amp; Ground",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/target.png",
+                "text": "Targets"
+            }
+        },
+        {
+            "name": "Speed",
+            "value": "Medium",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/speed.png",
+                "text": "Speed"
+            }
+        },
+        {
+            "name": "Range",
+            "value": "9",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/range.png",
+                "text": "Range"
+            }
+        },
+        {
+            "name": "Deploy Time",
+            "value": "1sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/deploy_time.png",
+                "text": "Deploy Time"
+            }
+        }
+    ]
+}

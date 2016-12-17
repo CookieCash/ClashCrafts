@@ -1,0 +1,60 @@
+﻿{
+    "language": "en",
+    "name": "Graveyard",
+    "rarity": "legendary",
+    "level": "1",
+    "type": "spell",
+    "elixir": "5",
+    "description": "Surprise! It's a party. A Skeleton party, anywhere in the Arena. Yay!",
+    "image": "http://www.clashroyalecardmaker.com/",
+    "properties": [
+        {
+            "name": "Skeleton Level",
+            "value": "9",
+            "extras": {
+                "background": true,
+                "info": true
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/troop.png",
+                "text": "Troop"
+            }
+        },
+        {
+            "name": "Spawn Speed",
+            "value": "0.5sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/lifetime.png",
+                "text": "Lifetime"
+            }
+        },
+        {
+            "name": "Duration",
+            "value": "10sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/lifetime.png",
+                "text": "Lifetime"
+            }
+        },
+        {
+            "name": "Radius",
+            "value": "5",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/radius.png",
+                "text": "Radius"
+            }
+        }
+    ]
+}

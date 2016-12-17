@@ -1,0 +1,108 @@
+﻿{
+    "language": "en",
+    "name": "Inferno Dragon",
+    "rarity": "legendary",
+    "level": "1",
+    "type": "troop",
+    "elixir": "4",
+    "description": "Shoots a focused beam of fire that increases in damage over time. Wears a helmet because flying can be dangerous.",
+    "image": "http://www.clashroyalecardmaker.com/",
+    "properties": [
+        {
+            "name": "Hitpoints",
+            "value": "950",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hp.png",
+                "text": "Hitpoints"
+            }
+        },
+        {
+            "name": "Damage Per Second",
+            "value": "75-875",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/dps.png",
+                "text": "DPS"
+            }
+        },
+        {
+            "name": "Damage",
+            "value": "30-350",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/damage.png",
+                "text": "Damage"
+            }
+        },
+        {
+            "name": "Hit Speed",
+            "value": "0.4sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hit_speed.png",
+                "text": "Hit Speed"
+            }
+        },
+        {
+            "name": "Targets",
+            "value": "Air &amp; Ground",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/target.png",
+                "text": "Targets"
+            }
+        },
+        {
+            "name": "Speed",
+            "value": "Medium",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/speed.png",
+                "text": "Speed"
+            }
+        },
+        {
+            "name": "Range",
+            "value": "4",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/range.png",
+                "text": "Range"
+            }
+        },
+        {
+            "name": "Deploy Time",
+            "value": "1sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/deploy_time.png",
+                "text": "Deploy Time"
+            }
+        }
+    ]
+}

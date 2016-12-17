@@ -1,0 +1,72 @@
+﻿{
+    "language": "en",
+    "name": "The Log",
+    "rarity": "legendary",
+    "level": "1",
+    "type": "spell",
+    "elixir": "2",
+    "description": "A spilt bottle of Rage turned an annocent tree trunk into \"The Log\". Now, it seeks revenge by crusing anything in its path!",
+    "image": "http://www.clashroyalecardmaker.com/",
+    "properties": [
+        {
+            "name": "Targets",
+            "value": "Ground",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/target.png",
+                "text": "Targets"
+            }
+        },
+        {
+            "name": "Area Damage",
+            "value": "260",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/area_damage.png",
+                "text": "Area Damage"
+            }
+        },
+        {
+            "name": "Crown Tower Damage",
+            "value": "104",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/tower_damage.png",
+                "text": "Tower Damage"
+            }
+        },
+        {
+            "name": "Width",
+            "value": "3.9",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/radius.png",
+                "text": "Radius"
+            }
+        },
+        {
+            "name": "Distance",
+            "value": "11.6",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/range.png",
+                "text": "Range"
+            }
+        }
+    ]
+}

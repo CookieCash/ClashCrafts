@@ -1,0 +1,108 @@
+﻿{
+    "language": "en",
+    "name": "Sparky",
+    "rarity": "legendary",
+    "level": "1",
+    "type": "troop",
+    "elixir": "6",
+    "description": "Sparky slowly charges up, then unloads MASSIVE area damage. Overkill isn't in her vocabulary.",
+    "image": "http://www.clashroyalecardmaker.com/",
+    "properties": [
+        {
+            "name": "Hitpoints",
+            "value": "1200",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hp.png",
+                "text": "Hitpoints"
+            }
+        },
+        {
+            "name": "Damage Per Second",
+            "value": "260",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/dps.png",
+                "text": "DPS"
+            }
+        },
+        {
+            "name": "Area Damage",
+            "value": "1300",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/area_damage.png",
+                "text": "Area Damage"
+            }
+        },
+        {
+            "name": "Hit Speed",
+            "value": "5sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hit_speed.png",
+                "text": "Hit Speed"
+            }
+        },
+        {
+            "name": "Targets",
+            "value": "Ground",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/target.png",
+                "text": "Targets"
+            }
+        },
+        {
+            "name": "Speed",
+            "value": "Slow",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/speed.png",
+                "text": "Speed"
+            }
+        },
+        {
+            "name": "Range",
+            "value": "4.5",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/range.png",
+                "text": "Range"
+            }
+        },
+        {
+            "name": "Deploy Time",
+            "value": "1sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/deploy_time.png",
+                "text": "Deploy Time"
+            }
+        }
+    ]
+}
