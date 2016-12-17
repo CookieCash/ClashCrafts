@@ -1,0 +1,107 @@
+﻿{
+    "language": "en",
+    "name": "Mini P.E.K.K.A.",
+    "rarity": "rare",
+    "level": "7",
+    "type": "troop",
+    "elixir": "4",
+    "description": "The arena is a certified butterfly-free zone. No distractions for P.E.K.K.A, only destruction.",
+    "properties": [
+        {
+            "name": "Hitpoints",
+            "value": "1056",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hp.png",
+                "text": "Hitpoints"
+            }
+        },
+        {
+            "name": "Damage per second",
+            "value": "317",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/dps.png",
+                "text": "DPS"
+            }
+        },
+        {
+            "name": "Damage",
+            "value": "572",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/damage.png",
+                "text": "Damage"
+            }
+        },
+        {
+            "name": "Hit Speed",
+            "value": "1.8sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/hit_speed.png",
+                "text": "Hit Speed"
+            }
+        },
+        {
+            "name": "Targets",
+            "value": "Ground",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/target.png",
+                "text": "Targets"
+            }
+        },
+        {
+            "name": "Speed",
+            "value": "Fast",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/speed.png",
+                "text": "Speed"
+            }
+        },
+        {
+            "name": "Range",
+            "value": "Melee",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/range.png",
+                "text": "Range"
+            }
+        },
+        {
+            "name": "Deploy Time",
+            "value": "1sec",
+            "extras": {
+                "background": true,
+                "info": false
+            },
+            "icon": {
+                "value": "http://www.clashroyalecardmaker.com/img/icons/deploy_time.png",
+                "text": "Deploy Time"
+            }
+        }
+    ]
+}
