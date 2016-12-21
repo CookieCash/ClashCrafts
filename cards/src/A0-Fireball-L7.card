@@ -10,7 +10,7 @@
     "properties": [
         {
             "name": "Area Damage",
-            "value": "520",
+            "value": "572",
             "extras": {
                 "background": true,
                 "info": false
@@ -22,7 +22,7 @@
         },
         {
             "name": "Crown Tower Damage",
-            "value": "208",
+            "value": "229",
             "extras": {
                 "background": true,
                 "info": false
